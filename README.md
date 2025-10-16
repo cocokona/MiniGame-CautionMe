@@ -1,6 +1,11 @@
 This is an interactive art composed of programming and drawing. 
 
 
+# Art — Caution Me
+A small collection of artworks and interactive pieces. Browse, play, and explore — deeper meanings and process notes are linked below.
+
+
+
 The art show a person experiencing low spirits, gradually withdrawing and closing off their inner world. 
 
 <img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
