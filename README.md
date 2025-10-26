@@ -26,5 +26,7 @@ Bad ending...
 <img width="662" height="496" alt="image" src="https://github.com/user-attachments/assets/247df2c9-e0af-4daa-ab22-e5b814a40ba4" />
 
 
+Happy ending...
+
 
 I hope you can pay more attention to those around you in the future.
