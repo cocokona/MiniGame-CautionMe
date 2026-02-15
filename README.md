@@ -9,6 +9,13 @@ The art show a person experiencing low spirits, gradually withdrawing and closin
 
 <img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
 
+## Programming Language
+Java
+
+
+## How to open the game
+Download "Processing" and upload all the file.
+
 
 ## How to experience the work
 User should help to touch the appeared caution line until it have not generate a new caution line.
@@ -30,4 +37,4 @@ Happy ending...
 
  (Play and get by yourself)
 
-I hope you can pay more attention to these people around you in the future.
+Hope you can pay more attention to these people around you in the future.
