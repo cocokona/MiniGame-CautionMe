@@ -14,7 +14,8 @@ Java
 
 
 ## How to open the game
-Download "Processing" and upload all the file.
+Choice 1: Download "Processing" and upload all the file of "main".
+Choice 2: Open the "html-version"
 
 
 ## How to experience the work
