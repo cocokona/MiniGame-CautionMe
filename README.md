@@ -1,6 +1,6 @@
 
 
-# Caution Me
+# Art — Caution Me
 A small collection of artworks and interactive pieces like a mini game. Browse, play, and explore — deeper meanings and process notes are linked below.
 
 
@@ -9,13 +9,19 @@ The art show a person experiencing low spirits, gradually withdrawing and closin
 
 <img width="174" height="179" alt="image" src="https://github.com/user-attachments/assets/718ba4c1-78d3-4476-88f7-ad440d4108d9" />
 
-## Programming Language
-Java
-
 
 ## How to open the game
-Choice 1: Download "Processing" and upload all the file of "main".
-Choice 2: Open the "html-version"
+Chocie 1: Download "Processing" and upload all the file in main.
+
+
+
+Choice 2: Click https://cocokona.github.io/MiniGame-CautionMe/
+
+
+
+## Programming Language
+html, js
+
 
 
 ## How to experience the work
